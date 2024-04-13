@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="text">Мы учимся в БТПИТ!</string>
+    <string name="author" translatable="false">ГБПОУ ВО "БТПИТ"</string>
+    <string name="published" translatable="false">30 мар в 13:13</string>
+    <string name="textt" translatable="false">ЛИДЕР ДВИЖЕНИЯ ПЕРВЫХ
+29 марта студент 2 курса Бараненко Максим Борисоглебского техникума промышленных и информационных технологий совместно с советником директора по воспитанию Алехиной Светланой приняли участие в территориальном этапе регионального конкурса «Лидер Движения Первых Воронежской области», который проходил на базе МОУ Новохоперской СОШ N2.
+Ребята проходили испытания по следующим темам: «Эрудит», «Оратор», «Работа в команде».</string>
+    <string name="menu" translatable="false">Меню</string>
+    <string name="like" translatable="false">Нравится</string>
+    <string name="_10" translatable="false">10</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="textprosmotrov">1</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="post_text" translatable="false">Текст поста</string>
+    <string name="remove" translatable="false">Remove</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="error_empty_content" translatable="false">Ошибка</string>
+    <string name="chooser_share_post" translatable="false">Поделиться постом</string>
+    <string name="description_post_save" translatable="false">Сохранить</string>
+    <string name="cancel" translatable="false">Отменить</string>
+    <string name="play" translatable="false">Включить</string>
+</resources>
